@@ -1,4 +1,4 @@
-## Professional Skills
+## IT Skills
 ### Languages
 ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=010101)
 ### Frameworks & libraries
