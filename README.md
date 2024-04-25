@@ -1,6 +1,6 @@
 ## IT Skills
 ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=010101)
-![Reactor](https://img.shields.io/badge/Reactor-green?style=for-the-badge&logo=reactor&logoColor=white&labelColor=010101)
+![ReactiveX](https://img.shields.io/badge/ReactiveX-violet?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=010101)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white&labelColor=010101)
 ![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white&labelColor=010101)
 ![JSONWebTokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=010101)
